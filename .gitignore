@@ -95,3 +95,5 @@ out/
 
 #github extension settings
 settings.json
+__pycache__/
+.venv/
